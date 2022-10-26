@@ -14,7 +14,7 @@ pycodestyle==2.7.0
 pydocstyle==6.0.0
 pytest==6.2.3
 pytest-cov==2.11.1
-pytest-xdist==2.2.1
+pytest-xdist==3.0.2
 pyupgrade==2.13.0
 Sphinx==3.5.4
 twine==3.4.1
